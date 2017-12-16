@@ -1,4 +1,4 @@
-"""A little baby data scrapper."""
+"""A simple data scraper."""
 import requests
 import sys
 import re
